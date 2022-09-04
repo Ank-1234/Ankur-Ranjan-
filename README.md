@@ -1,4 +1,4 @@
-# Ankur-Ranjan-
+scaleracademy/scaler-september-open-source-challenge
 # Python3 program to calculate pow(x,n)
  
 # Function to calculate x
